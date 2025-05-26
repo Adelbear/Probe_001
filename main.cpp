@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "ru");
     double inx=100, iny=100;
     double func1=-100,func2=-100;
 
